@@ -1,0 +1,7 @@
+name: PluginExercice
+version: '${project.version}'
+main: org.nebichleking.pluginexercice.PluginExercice
+api-version: 1.19
+commands:
+  hdv:
+    description: Ouverture de l'hôtel des ventes
